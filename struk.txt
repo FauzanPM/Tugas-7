@@ -1,0 +1,3 @@
+Total pesanan   : 25000
+Total Bayar     : 30000
+Total kembalian : 5000
